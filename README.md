@@ -27,17 +27,17 @@ O Projeto é uma plataforma web desenvolvida para otimizar a interação entre a
 - JavaScript (ES6+): Linguagem de programação para interatividade e manipulação do DOM.
 
 ### Backend
-- Django (Python) ou Node.js (Express): Frameworks para construção da API e gerenciamento das requisições.
+- Django (Python): Frameworks para construção da API e gerenciamento das requisições.
 - JWT (JSON Web Tokens): Utilizado para autenticação segura de usuários.
-- Django ORM ou Sequelize: Para manipulação de banco de dados relacional.
+- Django ORM: Para manipulação de banco de dados relacional.
 
 ### Banco de Dados
-- MySQL ou PostgreSQL: Banco de dados relacional utilizado para armazenar os dados das turmas, atividades, alunos, professores e notas.
+- MySQL: Banco de dados relacional utilizado para armazenar os dados das turmas, atividades, alunos, professores e notas.
 
 ### Outros
 - Tailwind CSS: Framework para estilização rápida e eficiente das interfaces.
-- Vercel ou Netlify: Plataformas para deploy do frontend.
-- Railway ou Render: Plataformas para deploy do backend.
+- Vercel: Plataformas para deploy do frontend.
+- Railway: Plataformas para deploy do backend.
 
 ## Estrutura do Projeto
 
@@ -45,14 +45,7 @@ O Projeto é uma plataforma web desenvolvida para otimizar a interação entre a
 A aplicação frontend foi construída utilizando o framework React.js para garantir uma navegação rápida e dinâmica. Utilizamos componentes reutilizáveis para facilitar a manutenção e a escalabilidade do sistema.
 
 ### Backend
-O backend foi desenvolvido com Django (ou Node.js/Express), sendo responsável pela API RESTful. A autenticação é feita via JWT, garantindo a segurança nas comunicações entre o cliente e o servidor.
+O backend foi desenvolvido com Django, sendo responsável pela API RESTful. A autenticação é feita via JWT, garantindo a segurança nas comunicações entre o cliente e o servidor.
 
 ### Banco de Dados
 O banco de dados relacional armazena as informações críticas do sistema, como dados de usuários (alunos e professores), turmas, disciplinas, atividades, notas e comunicados.
-
-## Como Contribuir
-
-Contribuições são bem-vindas! Para contribuir com o projeto, siga as etapas abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para a sua feature:
