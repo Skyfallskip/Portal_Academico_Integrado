@@ -1,6 +1,6 @@
-# Projeto Lírio – Portal Acadêmico Integrado
+# Portal Acadêmico Integrado
 
-O Projeto Lírio é uma plataforma web desenvolvida para otimizar a interação entre alunos e professores no ambiente acadêmico. O sistema oferece funcionalidades para o gerenciamento de turmas, disciplinas, atividades, notas e comunicação de avisos, proporcionando uma gestão acadêmica eficiente e de fácil acesso.
+O Projeto é uma plataforma web desenvolvida para otimizar a interação entre alunos e professores no ambiente acadêmico. O sistema oferece funcionalidades para o gerenciamento de turmas, disciplinas, atividades, notas e comunicação de avisos, proporcionando uma gestão acadêmica eficiente e de fácil acesso.
 
 ## Funcionalidades
 
